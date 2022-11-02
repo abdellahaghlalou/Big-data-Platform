@@ -14,3 +14,29 @@ case was conducted on the crypto markets, the aim was to investigate the relatio
 the price changes of crypto assets (Bitcoin and Ethereum) and twitter sentiment of , we tried
 to find out if there exists any correlation between these two variables and draw out insightful
 conclusions from charts we visualized in the platform.
+
+# Use case 1 : Twitter in morocco analytics:
+
+and the tweets they liked. The profiles in question are 2M.ma, 1337, OCP Group, Agence MAP,
+59
+Hespress, Le360, MEDI1TV, El Otmani Saaddine, ONCF and ministry of health morocco
+
+# Use case 2 : Crypto markets and Twitter sentiment:
+
+The structure of this data is similar to the one used in the first use case. This one has
+only timeline tweets scraped from 7 profiles of crypto analysts and experts in twitter. We
+chose profiles that are not overly biased and don’t always talk about crypto in a positive
+or a negative way. We want data to reflect the facts as much as possible so the sentiment
+analysis can be insightful. The profiles that we chose are : @WClementeIII, @nic__carter,
+@BTC_Archive, @MHiesboeck, @crypto_birb, @rektcapital and @TheCryptoLark. We used
+tweets from 25/10/2021 to 23/06/2022, an 8 months period.
+
+Now we chose Bitcoin and Ethereum as the digital currencies to focus on, so we made sure
+to choose twitter profiles that discuss these coins frequently. The reason we chose these two
+coins is because : first, they are the most dominant two coins in the crypto market which makes
+them constantly discussed in social media. and secondly, we can find popular crypto experts
+that discuss these coins easier.
+
+Crypto historical prices data : 
+Data was retrieved from the website yahoo finance for both Bitcoin and Ethereum, for the
+same 8 months period from 25/10/2021 to 23/06/2022.
