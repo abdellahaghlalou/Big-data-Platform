@@ -17,9 +17,12 @@ conclusions from charts we visualized in the platform.
 
 # Use case 1 : Twitter in morocco analytics:
 
-and the tweets they liked. The profiles in question are 2M.ma, 1337, OCP Group, Agence MAP,
-59
+The profiles in question are 2M.ma, 1337, OCP Group, Agence MAP,59
 Hespress, Le360, MEDI1TV, El Otmani Saaddine, ONCF and ministry of health morocco
+
+## Visualitsation result : 
+
+<img src="" alt=””>
 
 # Use case 2 : Crypto markets and Twitter sentiment:
 
