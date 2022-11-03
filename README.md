@@ -15,14 +15,26 @@ the price changes of crypto assets (Bitcoin and Ethereum) and twitter sentiment 
 to find out if there exists any correlation between these two variables and draw out insightful
 conclusions from charts we visualized in the platform.
 
+## Batch architecture : 
+
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/batch-arch.png" alt=””>
+
+## Streaming architecture : 
+
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/streaming-arch.png" alt=””>
+
 # Use case 1 : Twitter in morocco analytics:
 
 The profiles in question are 2M.ma, 1337, OCP Group, Agence MAP,59
 Hespress, Le360, MEDI1TV, El Otmani Saaddine, ONCF and ministry of health morocco
 
-## Visualitsation result : 
+## Visualitzation result : 
 
-<img src="" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/word-cloud.png" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/hashtag-cloud.png" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/tweets.png" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/engagement.png" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/map.png" alt=””>
 
 # Use case 2 : Crypto markets and Twitter sentiment:
 
@@ -43,3 +55,9 @@ that discuss these coins easier.
 Crypto historical prices data : 
 Data was retrieved from the website yahoo finance for both Bitcoin and Ethereum, for the
 same 8 months period from 25/10/2021 to 23/06/2022.
+
+## Visualitzation result : 
+
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/bitcoin.png" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/etherium.png" alt=””>
+<img src="https://github.com/abdellahaghlalou/Big-data-Platform/blob/main/images/sentiment.png" alt=””>
